@@ -1,2 +1,2 @@
 # python
-# Getting to know Github test.
+Getting to know Github test.
